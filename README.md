@@ -3,7 +3,7 @@
 # IN CASE YOU WANT TO IMPORT IN PYTHON DIRECTLY
 pip install ucimlrepo
 
-"# Import the dataset into your code 
+#Import the dataset into your code 
 from ucimlrepo import fetch_ucirepo 
   
 #fetch dataset 
